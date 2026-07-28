@@ -12,7 +12,10 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
-
+<!-- или -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 <div align="center">
   <a href="https://github.com/Matot1/Sway">
     <img src="https://raw.githubusercontent.com/Matot1/Sway/main/app-icon.png" width="80" alt="Sway icon" />
@@ -22,7 +25,10 @@
   <br>
   <sub style="color:#a0a0a0;">Минималистичный Pomodoro-таймер в чёлке MacBook</sub>
 </div>
-
+<!-- или -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 <a href="https://github.com/Matot1/Matot1/raw/main/resume.pdf?download=1" target="_blank">Мое резюме</a>
 
 ![](https://komarev.com/ghpvc/?username=RDnaskela)
