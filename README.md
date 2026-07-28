@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Mato_o" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=600&color=2CA5E0&width=655&lines=Head+of+QA+%40+Russ+%26+Wildberries+in+Russia&repeat=false&cursor=false)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&width=700&lines=Head+of+QA+%40+Russ+%26+Wildberries+in+Russia&repeat=false" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Engineer-blue?style=for-the-badge&logo=testing-library" />
