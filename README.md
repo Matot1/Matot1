@@ -13,6 +13,17 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
+## 🚀 Главный проект
+
+<p align="center">
+  <a href="https://github.com/RDnaskela/sway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RDnaskela&repo=sway&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+> 🍅 Минималистичный Pomodoro-таймер, живущий прямо в чёлке MacBook.  
+> Управляет музыкой, следит за перерывами на кофе и делает это красиво.
+
 <a href="https://github.com/Matot1/Matot1/raw/main/resume.pdf?download=1" target="_blank">Мое резюме</a>
 
 ![](https://komarev.com/ghpvc/?username=RDnaskela)
