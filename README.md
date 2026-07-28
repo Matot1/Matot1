@@ -12,10 +12,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
-<!-- или -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+
 <a href="https://github.com/Matot1/Matot1/raw/main/resume.pdf?download=1" target="_blank">Мое резюме</a>
 <!-- или -->
 <p align="center">
