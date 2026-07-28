@@ -18,4 +18,4 @@
 ![](https://komarev.com/ghpvc/?username=RDnaskela)
 
 
-[![Telegram Badge](https://img.shields.io/badge/-@your_telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mato_o)
+[![Telegram Badge](https://img.shields.io/badge/-@Mato_o-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mato_o)
