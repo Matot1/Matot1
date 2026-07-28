@@ -13,13 +13,20 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
-## 🚀 Главный проект
-
-[![Sway](https://github-readme-stats.vercel.app/api/pin/?username=Matot1&repo=Sway&theme=radical&hide_border=true)](https://github.com/Matot1/Sway)
-</p>
-
-> 🍅 Минималистичный Pomodoro-таймер, живущий прямо в чёлке MacBook.  
-> Управляет музыкой, следит за перерывами на кофе и делает это красиво.
+<div align="center">
+  <a href="https://github.com/Matot1/Sway">
+    <img src="https://raw.githubusercontent.com/Matot1/Sway/main/.github/logo.svg" width="80" alt="Sway logo" />
+    <br>
+    <sub>
+      <b style="font-size:20px; color:#FF6B2B;">🍅 Sway</b>
+    </sub>
+    <br>
+    <sub style="color:#a0a0a0;">
+      Минималистичный Pomodoro-таймер, живущий в чёлке MacBook.<br>
+      Управляет музыкой, следит за перерывами на кофе и делает это красиво.
+    </sub>
+  </a>
+</div>
 
 <a href="https://github.com/Matot1/Matot1/raw/main/resume.pdf?download=1" target="_blank">Мое резюме</a>
 
