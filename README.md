@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&width=700&lines=Head+of+QA+%40+Russ+%26+Wildberries+in+Russia&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&width=700&lines=Head+of+QA+at+Russ+%26+Wildberries+in+Russia&repeat=false" />
 </p>
 
 <p align="center">
