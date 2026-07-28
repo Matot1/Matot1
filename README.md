@@ -16,7 +16,7 @@
 ## 🚀 Главный проект
 
 <p align="center">
-  <a href="https://github.com/RDnaskela/sway">
+  <a href="https://github.com/Matot1/Sway">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matot1&repo=Sway&theme=radical&hide_border=true" />
   </a>
 </p>
