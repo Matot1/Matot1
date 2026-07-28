@@ -30,9 +30,5 @@
 
 ![](https://komarev.com/ghpvc/?username=RDnaskela)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RDnaskela&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDnaskela&layout=compact&theme=radical" width="330"/>
-</p>
 
-[![Telegram Badge](https://img.shields.io/badge/-@your_telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/your_telegram)
+[![Telegram Badge](https://img.shields.io/badge/-@your_telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mato_o)
