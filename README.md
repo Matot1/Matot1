@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/Matot1/Sway">
-    <img src="https://raw.githubusercontent.com/Matot1/Sway/main/.github/logo.svg" width="80" alt="Sway logo" />
+    <img src="https://raw.githubusercontent.com/Matot1/Sway/main/.github/app-icon.png" width="80" alt="Sway logo" />
     <br>
     <sub>
       <b style="font-size:20px; color:#FF6B2B;">🍅 Sway</b>
