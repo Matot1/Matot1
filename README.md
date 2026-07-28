@@ -15,17 +15,12 @@
 
 <div align="center">
   <a href="https://github.com/Matot1/Sway">
-    <img src="https://raw.githubusercontent.com/Matot1/Sway/main/.github/app-icon.png" width="80" alt="Sway logo" />
+    <img src="https://raw.githubusercontent.com/Matot1/Sway/main/app-icon.png" width="80" alt="Sway icon" />
     <br>
-    <sub>
-      <b style="font-size:20px; color:#FF6B2B;">🍅 Sway</b>
-    </sub>
-    <br>
-    <sub style="color:#a0a0a0;">
-      Минималистичный Pomodoro-таймер, живущий в чёлке MacBook.<br>
-      Управляет музыкой, следит за перерывами на кофе и делает это красиво.
-    </sub>
+    <b style="font-size:20px; color:#FF6B2B;">Sway</b>
   </a>
+  <br>
+  <sub style="color:#a0a0a0;">Минималистичный Pomodoro-таймер в чёлке MacBook</sub>
 </div>
 
 <a href="https://github.com/Matot1/Matot1/raw/main/resume.pdf?download=1" target="_blank">Мое резюме</a>
