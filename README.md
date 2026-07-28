@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/RDnaskela/sway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RDnaskela&repo=sway&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matot1&repo=Sway&theme=radical&hide_border=true" />
   </a>
 </p>
 
